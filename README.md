@@ -1,5 +1,5 @@
-Portal for IBM open source at GitHub http://ibm.github.io.
+Portal for AngularJS Projects at GitHub pages http://kurniarvind.github.io.
 
-Visit us at https://hub.jazz.net/project/kellrman/IBMGitHubOrg.
+Visit us at https://github.com/kurniarvind
 
-[Contact us](mailto:hub@jazz.net)
+[Contact us](mailto:kurniarvind@gmail.com)
