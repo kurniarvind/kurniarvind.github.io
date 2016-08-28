@@ -2,9 +2,9 @@
     var orgs = [
         {"name": "kurniarvind/meetupmedia-App",
          "type": "repo"},
-        {"name": "wasdev",
+        /*{"name": "wasdev",
           "type": "org",
-          "link": "http://wasdev.github.io/"},
+          "link": "http://wasdev.github.io/"},*/
         {"name": "kurniarvind/templatestore-App",
           "type": "repo"},
         {"name": "kurniarvind/mycontacts-App",
