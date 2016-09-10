@@ -3,9 +3,6 @@
         {"name": "kurniarvind/meetupmedia-App",
          "type": "repo",
          "link": "https://meetupmedia-19c32.firebaseapp.com"},
-        /*{"name": "wasdev",
-          "type": "org",
-          "link": "http://wasdev.github.io/"},*/
         {"name": "kurniarvind/templatestore-App",
           "type": "repo",
           "link": "https://templatestore-7e379.firebaseapp.com"},
